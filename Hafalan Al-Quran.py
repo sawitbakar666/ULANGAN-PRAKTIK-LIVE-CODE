@@ -300,9 +300,9 @@ class TahfidzApp:
         """Menampilkan banner aplikasi"""
         print("""
 ╔══════════════════════════════════════════════════════════╗
-║         📖 PENDAMPING TAHFIDZ AL-QURAN 📖              ║
+║         📖 PENDAMPING TAHFIDZ AL-QURAN 📖                ║
 ║                                                          ║
-║     Alat bantu untuk menghafalkan Surat-surat Al-Quran  ║
+║     Alat bantu untuk menghafalkan Surat-surat Al-Quran   ║
 ║                                                          ║
 ║              "Allahumma infa'ni bima 'allamtani"         ║
 ╚══════════════════════════════════════════════════════════╝
