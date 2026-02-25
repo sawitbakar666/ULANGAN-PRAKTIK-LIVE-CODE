@@ -42,6 +42,90 @@ class SurahDatabase:
         {"no": 28, "nama": "Al-Qassas", "ayat": 88},
         {"no": 29, "nama": "Al-'Ankabut", "ayat": 69},
         {"no": 30, "nama": "Ar-Rum", "ayat": 60},
+        {"no": 31, "nama": "Luqman", "ayat": 34},
+        {"no": 32, "nama": "As-Sajdah", "ayat": 30},
+        {"no": 33, "nama": "Al-Ahzab", "ayat": 73},
+        {"no": 34, "nama": "Saba'", "ayat": 54},
+        {"no": 35, "nama": "Fatir", "ayat": 45},
+        {"no": 36, "nama": "Ya-Sin", "ayat": 83},
+        {"no": 37, "nama": "As-Saffat", "ayat": 182},
+        {"no": 38, "nama": "Sad", "ayat": 88},
+        {"no": 39, "nama": "Az-Zumar", "ayat": 75},
+        {"no": 40, "nama": "Al-Mu'min", "ayat": 85},
+        {"no": 41, "nama": "Fussilat", "ayat": 54},
+        {"no": 42, "nama": "Asy-Syura", "ayat": 53},
+        {"no": 43, "nama": "Az-Zukhruf", "ayat": 89},
+        {"no": 44, "nama": "Ad-Dukhan", "ayat": 59},
+        {"no": 45, "nama": "Al-Jathiyah", "ayat": 37},
+        {"no": 46, "nama": "Al-Ahqaf", "ayat": 35},
+        {"no": 47, "nama": "Muhammad", "ayat": 38},
+        {"no": 48, "nama": "Al-Fath", "ayat": 29},
+        {"no": 49, "nama": "Al-Hujurat", "ayat": 18},
+        {"no": 50, "nama": "Qaf", "ayat": 45},
+        {"no": 51, "nama": "Ad-Dhariyat", "ayat": 60},
+        {"no": 52, "nama": "At-Tur", "ayat": 49},
+        {"no": 53, "nama": "An-Najm", "ayat": 62},
+        {"no": 54, "nama": "Al-Qamar", "ayat": 55},
+        {"no": 55, "nama": "Ar-Rahman", "ayat": 78},
+        {"no": 56, "nama": "Al-Waqi'ah", "ayat": 96},
+        {"no": 57, "nama": "Al-Hadid", "ayat": 29},
+        {"no": 58, "nama": "Al-Mujadilah", "ayat": 22},
+        {"no": 59, "nama": "Al-Hashr", "ayat": 24},
+        {"no": 60, "nama": "Al-Mumtahanah", "ayat": 13},
+        {"no": 61, "nama": "As-Saff", "ayat": 14},
+        {"no": 62, "nama": "Al-Jumu'ah", "ayat": 11},
+        {"no": 63, "nama": "Al-Munafiqun", "ayat": 11},
+        {"no": 64, "nama": "At-Taghabun", "ayat": 18},
+        {"no": 65, "nama": "At-Talaq", "ayat": 12},
+        {"no": 66, "nama": "At-Tahrim", "ayat": 12},
+        {"no": 67, "nama": "Al-Mulk", "ayat": 30},
+        {"no": 68, "nama": "Al-Qalam", "ayat": 52},
+        {"no": 69, "nama": "Al-Haqqah", "ayat": 52},
+        {"no": 70, "nama": "Al-Ma'arij", "ayat": 44},
+        {"no": 71, "nama": "Nuh", "ayat": 28},
+        {"no": 72, "nama": "Al-Jinn", "ayat": 28},
+        {"no": 73, "nama": "Al-Muzzammil", "ayat": 20},
+        {"no": 74, "nama": "Al-Muddassir", "ayat": 56},
+        {"no": 75, "nama": "Al-Qiyamah", "ayat": 40},
+        {"no": 76, "nama": "Al-Insan", "ayat": 31},
+        {"no": 77, "nama": "Al-Mursalat", "ayat": 50},
+        {"no": 78, "nama": "An-Naba'", "ayat": 40},
+        {"no": 79, "nama": "An-Nazi'at", "ayat": 46},
+        {"no": 80, "nama": "'Abasa", "ayat": 42},
+        {"no": 81, "nama": "At-Takwir", "ayat": 29},
+        {"no": 82, "nama": "Al-Infitar", "ayat": 19},
+        {"no": 83, "nama": "Al-Mutaffifin", "ayat": 36},
+        {"no": 84, "nama": "Al-Inshiqaq", "ayat": 25},
+        {"no": 85, "nama": "Al-Buruj", "ayat": 22},
+        {"no": 86, "nama": "At-Tariq", "ayat": 17},
+        {"no": 87, "nama": "Al-A'la", "ayat": 19},
+        {"no": 88, "nama": "Al-Ghashiyah", "ayat": 26},
+        {"no": 89, "nama": "Al-Fajr", "ayat": 30},
+        {"no": 90, "nama": "Al-Balad", "ayat": 20},
+        {"no": 91, "nama": "Asy-Syams", "ayat": 15},
+        {"no": 92, "nama": "Al-Lail", "ayat": 21},
+        {"no": 93, "nama": "Ad-Duha", "ayat": 11},
+        {"no": 94, "nama": "Asy-Syarh", "ayat": 8},
+        {"no": 95, "nama": "At-Tin", "ayat": 8},
+        {"no": 96, "nama": "Al-'Alaq", "ayat": 19},
+        {"no": 97, "nama": "Al-Qadr", "ayat": 5},
+        {"no": 98, "nama": "Al-Bayyinah", "ayat": 8},
+        {"no": 99, "nama": "Az-Zilzal", "ayat": 8},
+        {"no": 100, "nama": "Al-'Adiyat", "ayat": 11},
+        {"no": 101, "nama": "Al-Qari'ah", "ayat": 11},
+        {"no": 102, "nama": "At-Takatsur", "ayat": 8},
+        {"no": 103, "nama": "Al-'Asr", "ayat": 3},
+        {"no": 104, "nama": "Al-Humazah", "ayat": 9},
+        {"no": 105, "nama": "Al-Fil", "ayat": 5},
+        {"no": 106, "nama": "Quraisy", "ayat": 4},
+        {"no": 107, "nama": "Al-Ma'un", "ayat": 7},
+        {"no": 108, "nama": "Al-Kautsar", "ayat": 3},
+        {"no": 109, "nama": "Al-Kafirun", "ayat": 6},
+        {"no": 110, "nama": "An-Nasr", "ayat": 3},
+        {"no": 111, "nama": "Al-Lahab", "ayat": 5},
+        {"no": 112, "nama": "Al-Ikhlas", "ayat": 4},
+        {"no": 113, "nama": "Al-Falaq", "ayat": 5},
+        {"no": 114, "nama": "An-Nas", "ayat": 6},
     ]
     
     @staticmethod
@@ -235,7 +319,7 @@ class TahfidzApp:
         print("4. 📊 Lihat Progress Hafalan")
         print("5. 🧠 Kuis Hafalan")
         print("6. 🎯 Test Surah Acak")
-        print("7. 📈 Statistik Kepribadian")
+        print("7. 📈 Presentase Hafalan")
         print("8. ❌ Keluar")
         print("="*50)
         
@@ -275,10 +359,10 @@ class TahfidzApp:
         print("="*50)
         
         try:
-            surah_no = int(input("Masukan nomor surah (1-30): "))
+            surah_no = int(input("Masukan nomor surah (1-114): "))
             
-            if surah_no < 1 or surah_no > 30:
-                print("❌ Nomor surah harus antara 1-30")
+            if surah_no < 1 or surah_no > 114:
+                print("❌ Nomor surah harus antara 1-114")
                 return
             
             surah = SurahDatabase.get_surah_by_no(surah_no)
@@ -334,7 +418,7 @@ class TahfidzApp:
         print("="*50)
         
         total_hafal = len(completed)
-        print(f"\n📚 Total Surah Hafal: {total_hafal}/30")
+        print(f"\n📚 Total Surah Hafal: {total_hafal}/114")
         
         if completed:
             print("\n✅ Surah yang Sudah Hafal:")
@@ -400,13 +484,13 @@ class TahfidzApp:
         completed = self.tracker.get_completed_surahs()
         
         print("\n" + "="*50)
-        print("STATISTIK KEPRIBADIAN HAFALAN")
+        print("PRESENTASE HAFALAN")
         print("="*50)
         
         total_hafal = len(completed)
-        persen = (total_hafal / 30) * 100
+        persen = (total_hafal / 114) * 100
         
-        print(f"\n📊 Total Hafalan: {total_hafal}/30 Surah ({persen:.1f}%)")
+        print(f"\n📊 Total Hafalan: {total_hafal}/114 Surah ({persen:.1f}%)")
         print(f"📖 Total Review: {stats['total_review']} kali")
         
         if total_hafal > 0:
@@ -424,7 +508,7 @@ class TahfidzApp:
         elif persen < 100:
             print("   Hampir sampai! Waktu untuk menyelesaikan perjuangan Anda 🎯")
         else:
-            print("   Alhamdulillah! Anda telah menyelesaikan hafalan 30 surah! 🎉🎉🎉")
+            print("   Alhamdulillah! Anda telah menyelesaikan hafalan seluruh Al-Quran (114 surah)! 🎉🎉🎉")
         
         print("="*50)
     
