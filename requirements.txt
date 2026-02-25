@@ -1,0 +1,6 @@
+# Program Pendamping Tahfidz Al-Quran
+# Tidak memerlukan library eksternal - hanya Python 3.6+
+
+# Untuk development (opsional):
+# pytest>=6.0  # Untuk testing
+# black>=21.0  # Untuk formatting
