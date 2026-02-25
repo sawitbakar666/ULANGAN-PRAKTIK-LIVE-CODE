@@ -318,7 +318,7 @@ class TahfidzApp:
         print("3. ✅ Tandai Surah Sebagai Hafal")
         print("4. 📊 Lihat Progress Hafalan")
         print("5. 🧠 Kuis Hafalan")
-        print("6. 🎯 Test Surah Acak")
+        print("6. 🎯 Test Surah Hafalan Acak")
         print("7. 📈 Presentase Hafalan")
         print("8. ❌ Keluar")
         print("="*50)
