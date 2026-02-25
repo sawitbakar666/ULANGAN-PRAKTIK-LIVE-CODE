@@ -344,7 +344,7 @@ class TahfidzApp:
             if no in completed:
                 status = "✓ Sudah Hafal"
             elif no in in_progress:
-                status = "⏳ Sedang Hafal"
+                status = "⏳ Sedang Menghafal"
             else:
                 status = "⭕ Belum Dimulai"
             
@@ -536,7 +536,7 @@ class TahfidzApp:
             elif pilihan == "8":
                 print("\n🤝 Terima kasih telah menggunakan Pendamping Tahfidz!")
                 print("Semoga Allah menerima hafalan Anda dan membuat hati Anda tenang. 📖")
-                print("Wassalamu alaikum wa rahmatullahi wa barakatuh 🤲\n")
+                print("Wassalamualaikum wa rahmatullahi wa barakatuh 🤲\n")
                 break
             else:
                 print("❌ Pilihan tidak valid! Silakan pilih menu 1-8.")
